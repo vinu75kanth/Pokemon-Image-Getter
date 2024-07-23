@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(207, 202, 202);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#myBox{
+    border: 2px solid;
+    max-width: 500px;
+    border-color: hsl(180, 71%, 7%);
+    height: 250px;
+}
+input{
+    background-color: rgb(207, 202, 202);
+    font-size: 1.5rem;
+    color: white;
+}
+button{
+    font-size: 1.5rem;
+}
+img{
+    width: 200px;
+    height:200px;
+}
